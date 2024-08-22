@@ -73,22 +73,7 @@ public class JavaEx01 {
 		System.out.println("둘");break;
 		default:
 			System.out.println("아묵서도 아님");break;
-		} //end of switch
-		
-		//반복문
-		// for : 고정된 횟수만큼.
-		// for(초기식; 조건식; 증감식){}
-		// while 문 : 조건식이 참인동안 반복
-		// do-while문 : 코드 블록을 먼저 실행하고, 조건이 참이면 반복실행
-		
-		// 내일
-		/*
-		 * 반복문
-		 * 배열과 반복문
-		 * java.util.Arrays 클래스
-		 */
-		
-		
+		} //end of switch		
 		
 	}//end of main
 		
